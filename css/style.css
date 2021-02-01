@@ -1510,11 +1510,6 @@ li {
     margin: 0;
     padding-top: 40px;
   }
-
-  .footer-questions__title {
-    text-align: center;
-  }
-
   .footer-visit {
     margin-left: 50px;
     padding-top: 40px;
@@ -1523,10 +1518,6 @@ li {
   .footer-visit {
     margin: 0;
     padding-top: 40px;
-  }
-
-  .footer-visit__title {
-    text-align: center;
   }
 }
 
@@ -1733,6 +1724,9 @@ li {
   }
   .donation__credit a {
     font-size: 17px;
+  }
+  .fullscreen__title {
+    line-height: 40px;
   }
 }
 
