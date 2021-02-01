@@ -1713,6 +1713,7 @@ li {
 
   .donation__title {
     margin-bottom: 30px;
+    max-width: unset;
   }
   .donation__credit a {
     font-size: 17px;
